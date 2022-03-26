@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anushaupreti" alt="anushaupreti" /></a> </p>
 
-- How to reach me <a href="www.gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/46683097/160237773-2e88c12f-8a02-4c65-8190-9770e0b85a98.png" alt="anusha upreti" height="30" width="30" />anushaupreti99@gmail.com</a>
+- How to reach me <a href="mailto:anushaupreti99@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/46683097/160237773-2e88c12f-8a02-4c65-8190-9770e0b85a98.png" alt="anusha upreti" height="30" width="30" />anushaupreti99@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
