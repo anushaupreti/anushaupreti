@@ -10,9 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anusha upreti" target="blank"><img align="center" src="https://user-images.githubusercontent.com/46683097/160237564-14488164-66db-4e73-825b-3acd5c59533e.png" alt="anusha upreti" height="30" width="40" /></a>
-<a href="https://fb.com/anusha upreti" target="blank"><img align="center" src="" alt="anusha upreti" height="30" width="40" /></a>
-<a href="https://instagram.com/anushaupreti" target="blank"><img align="center" src="" alt="anushaupreti" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anusha upreti" target="blank"><img align="center" src="https://user-images.githubusercontent.com/46683097/160237564-14488164-66db-4e73-825b-3acd5c59533e.png" alt="anusha upreti" height="30" width="30" /></a>
+<a href="https://fb.com/anusha upreti" target="blank"><img align="center" src="https://user-images.githubusercontent.com/46683097/160237639-2a0f7b2d-7e64-4650-889b-6e91cda8a95b.png" alt="anusha upreti" height="30" width="30" /></a>
+<a href="https://instagram.com/anushaupreti" target="blank"><img align="center" src="https://user-images.githubusercontent.com/46683097/160237677-aa5b8ee5-1cb0-4fa8-8732-1326b58d34e4.png" alt="anushaupreti" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
